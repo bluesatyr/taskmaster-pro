@@ -1,4 +1,4 @@
-// progress 5.1.6 - "Note that .replace(), in the status variable initialization..."
+// progress 5.2.5 - beginning
 
 var tasks = {};
 
