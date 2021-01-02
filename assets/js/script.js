@@ -1,5 +1,3 @@
-// progress 5.2.5 - beginning
-
 var tasks = {};
 
 var createTask = function(taskText, taskDate, taskList) {
